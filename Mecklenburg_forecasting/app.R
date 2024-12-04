@@ -16,7 +16,7 @@ library(ggplot2)
 library(RColorBrewer)
 library(ggmap)
 
-register_google(key = "AIzaSyDknZmEvyeKTyGnZN0ff0-A1_N696Dq3lY", write = TRUE)
+register_google(key = "I ain't no snitch", write = TRUE)
 
 #### Reading in Data
 precinct_maps <- st_read("Voter_Precinct/Voter_Precinct.shp")
