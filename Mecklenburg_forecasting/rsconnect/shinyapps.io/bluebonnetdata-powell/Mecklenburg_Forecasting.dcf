@@ -1,0 +1,12 @@
+name: Mecklenburg_Forecasting
+title: Mecklenburg_forecasting
+username: bluebonnetdata-powell
+account: bluebonnetdata-powell
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13158492
+bundleId: 9329753
+url: https://bluebonnetdata-powell.shinyapps.io/Mecklenburg_Forecasting/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
